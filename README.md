@@ -21,3 +21,6 @@ If you want to merge some files use command like this: mkvmerge -o ./out.mkv ./1
 GPL v3
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dcromster/mts2mkv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dcromster/mts2mkv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
