@@ -15,5 +15,9 @@ Contact me: dcromster@gmail.com
 3. Wait...
 4. See the result: all files will be ready with the extension mkv
 
+If you want to merge some files use command like this: mkvmerge -o ./out.mkv ./1.mkv +./2.mkv +./3.mkv +./4.mkv
+
 ## Licensing
 GPL v3
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dcromster/mts2mkv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
